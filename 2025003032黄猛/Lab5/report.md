@@ -2,6 +2,8 @@
 
 ## 1. 应用展示内容
 
+
+
 本应用主题为数字艺术空间展示，一共展示 3 幅作品。
 
 - 作品 1：laude Monet, Water Lilies, 1916: Soft blended hues veil the light on water, representing the ultimate expression of Impressionist philosophy of light and shadow.
